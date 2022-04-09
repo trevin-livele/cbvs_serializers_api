@@ -4,7 +4,7 @@ from cbvApp.serializers import StudentSerializer
 from rest_framework.response import Response
 from rest_framework import status
 from rest_framework.views import APIView
-from django.http import HTTP404
+# from django.http import HTTP404
 
 
 # Create your views here.
